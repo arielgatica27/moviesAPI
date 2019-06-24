@@ -7,7 +7,10 @@ _movies API REST using mongoose, express & mongo DB_
 This console app will help you find a movie within our library. It was created using Mongoose, express and the Mongo DataBase.
 
 #### Installation
-In order to have acces to the database
+In order to have acces to the database, after downloading the repository:
 ```
-npm init
+npm install
 ```
+describir cada uno de los end points.
+GET
+POST
